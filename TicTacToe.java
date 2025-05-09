@@ -50,7 +50,7 @@ public class TicTacToe {
                     if (board[x][y] == 0) {
                         board[x][y] = currentPlayer;
 
-
+                        // Player 1 starts
                         if (currentPlayer == 1) {
                             StdDraw.setPenColor(Color.PINK); // drawing o's
                             StdDraw.circle(bx, by, 0.5);
