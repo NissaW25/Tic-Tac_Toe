@@ -65,7 +65,7 @@ public class TicTacToe {
                         if (winnerCheck(board, currentPlayer)) {
                             StdDraw.setPenColor(Color.white);
                             StdDraw.filledRectangle(1.5, 3.75, 1, 0.2);
-                            StdDraw.setPenColor(Color.RED);
+                            StdDraw.setPenColor(Color.GREEN);
                             StdDraw.text(1.5, 3.75, "Player " + currentPlayer + " wins!");
                             gameWon = true;
                             break;
@@ -89,7 +89,7 @@ public class TicTacToe {
         if(!gameWon) {
             StdDraw.setPenColor(Color.white);
             StdDraw.filledRectangle(1.5, 3.75, 1, 0.2);
-            StdDraw.setPenColor(Color.RED);
+            StdDraw.setPenColor(Color.BLUE);
             StdDraw.text(1.5, 3.75, "It's a draw!");
         }
 
