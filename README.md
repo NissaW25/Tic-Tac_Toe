@@ -1,6 +1,6 @@
 ## Tic-Tac-Toe
 
-![design_image]<img width="500" alt="Screenshot 2025-05-09 at 1 31 45 AM" src="https://github.com/user-attachments/assets/21716c69-bd60-4133-8b69-a85ed66073de" />
+<img width="500" alt="Screenshot 2025-05-09 at 1 31 45 AM" src="https://github.com/user-attachments/assets/21716c69-bd60-4133-8b69-a85ed66073de" />
 
 
 Tic-Tac-Toe is a one-week project I created for school as an intermediate coding challenge.
